@@ -20,6 +20,8 @@
 
     <modules>
         <module>annotation-controller</module>
+        <module>java-annotation</module>
+        <module>java-annotation</module>
     </modules>
 
     <properties>
